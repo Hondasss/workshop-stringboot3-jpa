@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 import com.educandoweb.course.entities.Order;
 import com.educandoweb.course.repositories.OrderRepository;
-import com.educandoweb.course.repositories.USerRepository;
 
 @Service
 public class OrderService {
